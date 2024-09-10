@@ -29,7 +29,7 @@ To get started with TextUtils, follow these steps:
 
 bash
 Copy code
-npm install 4. Start the Development Server
+npm install Start the Development Server
 bash
 Copy code
 npm run dev
